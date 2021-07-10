@@ -1,0 +1,2 @@
+com/shpaul2001_test/admin/web/HelloControllerTest.java
+ com.shpaul2001_test.admin.web.HelloControllerTest
